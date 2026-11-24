@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Fonita Jaya 👋
 
-<!--
-**FonitaJaya/fonitajaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Systems Student | Aspiring IT Business Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm currently studying Information Systems at President University and passionate about bridging the gap between business and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Learning
+- Business Process Analysis
+- Database & SQL
+- Web Design
+- Project Management
+
+### 🛠️ Tools & Skills
+- Microsoft Excel & Word
+- HTML
+- CSS
+- Figma
+- SQL
+- Business Process Modeling (BPMN)
+
+### 🎯 My Goal
+To become an IT Business Analyst who helps companies work smarter with technology.
+
+### 📫 Let's Connect!
+- LinkedIn: https://www.linkedin.com/in/fonitajaya
+- Email: fonitajaya@gmail.com
+
+---
+✨ *"Turning business needs into smart tech solutions."*
