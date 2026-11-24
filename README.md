@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm currently studying Information Systems at Pres
 To become an IT Business Analyst who helps companies work smarter with technology.
 
 ### 📫 Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/fonitajaya
+- LinkedIn: https://www.linkedin.com/in/leonarda-fonita-jaya-72118640a
 - Email: fonitajaya@gmail.com
 
 ---
